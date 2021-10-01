@@ -1,0 +1,34 @@
+* {
+    color: lightgreen;
+}
+
+p {
+    color: mediumturquoise ;
+    font-family: Geneva, Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    color: orchid;
+    text-align: center;
+}
+
+li {
+    color:green;
+}
+
+.tomato {
+   text-align: center;
+    font-weight: 700;
+}
+
+h3 {
+    word-spacing: 18px;
+}
+
+.potato {
+    color: ivory;
+}
